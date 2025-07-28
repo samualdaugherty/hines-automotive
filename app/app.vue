@@ -17,7 +17,7 @@
             Quality work, honest service, personal touch
           </p>
           <p class="text-lg md:text-xl text-gray-200 mb-8 max-w-3xl mx-auto leading-relaxed">
-            Hi, I'm Greg Hines, and I've been working on cars for over 15 years. From small repairs and detailing to custom stereo installs and accessory work, I take pride in delivering quality service with the personal attention your vehicle deserves.
+            Hi, I'm Greg Hines, and I've been working on cars for over 30 years. From small repairs and detailing to custom stereo installs and accessory work, I take pride in delivering quality service with the personal attention your vehicle deserves.
           </p>
           <a 
             href="#contact" 
@@ -290,7 +290,7 @@
                   </div>
                   <div>
                     <p class="text-sm text-gray-500">Call or Text</p>
-                    <p class="text-lg font-semibold text-gray-800">(555) 123-4567</p>
+                    <p class="text-lg font-semibold text-gray-800">(309) 669-6425</p>
                   </div>
                 </div>
                 
@@ -302,7 +302,7 @@
                   </div>
                   <div>
                     <p class="text-sm text-gray-500">Email</p>
-                    <p class="text-lg font-semibold text-gray-800">greg@hinesautomotive.com</p>
+                    <p class="text-lg font-semibold text-gray-800">ghines70@gmail.com</p>
                   </div>
                 </div>
                 
@@ -338,13 +338,13 @@
               <svg class="w-5 h-5 text-blue-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"></path>
               </svg>
-              <span class="text-gray-300">(555) 123-4567</span>
+              <span class="text-gray-300">(309) 669-6425</span>
             </div>
             <div class="flex items-center space-x-2">
               <svg class="w-5 h-5 text-blue-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 7.89a2 2 0 002.83 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path>
               </svg>
-              <span class="text-gray-300">greg@hinesautomotive.com</span>
+              <span class="text-gray-300">ghines70@gmail.com</span>
             </div>
           </div>
           
