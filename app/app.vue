@@ -5,6 +5,8 @@
     <!-- Hero Section -->
     <section id="hero" class="relative bg-gradient-to-br from-gray-900 via-gray-800 to-gray-900 text-white">
       <div class="absolute inset-0 bg-black opacity-20"></div>
+      <!-- Hexagon Pattern Overlay -->
+      <div class="absolute inset-0 opacity-10 hero-pattern"></div>
       <div class="relative container mx-auto px-4 py-20 lg:py-32">
         <div class="max-w-4xl mx-auto text-center">
           <h1 class="text-4xl md:text-6xl font-bold mb-4 leading-tight">
@@ -393,5 +395,16 @@ html {
 input:focus,
 textarea:focus {
   outline: none;
+}
+
+/* Hero section hexagon pattern */
+.hero-pattern {
+  background-image: 
+    linear-gradient(30deg, rgba(255, 255, 255, 0.1) 12%, transparent 12.5%, transparent 87%, rgba(255, 255, 255, 0.1) 87.5%, rgba(255, 255, 255, 0.1)),
+    linear-gradient(150deg, rgba(255, 255, 255, 0.1) 12%, transparent 12.5%, transparent 87%, rgba(255, 255, 255, 0.1) 87.5%, rgba(255, 255, 255, 0.1)),
+    linear-gradient(30deg, rgba(255, 255, 255, 0.1) 12%, transparent 12.5%, transparent 87%, rgba(255, 255, 255, 0.1) 87.5%, rgba(255, 255, 255, 0.1)),
+    linear-gradient(150deg, rgba(255, 255, 255, 0.1) 12%, transparent 12.5%, transparent 87%, rgba(255, 255, 255, 0.1) 87.5%, rgba(255, 255, 255, 0.1));
+  background-size: 80px 140px;
+  background-position: 0 0, 0 0, 40px 70px, 40px 70px;
 }
 </style>
